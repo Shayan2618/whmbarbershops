@@ -1,0 +1,4 @@
+node_modules/
+wmh_barber.db
+*.db
+.env
